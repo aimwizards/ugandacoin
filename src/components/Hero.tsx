@@ -10,7 +10,7 @@ export const Hero = () => {
           <span className="text-indigo-600"> Securely</span>
         </h1>
         <p className="text-xl text-gray-600 mb-12 max-w-2xl mx-auto">
-          The most trusted P2P platform for Monero trading. Fast, secure, and private.
+          The most trusted P2P platform for junes scams. Fast, secure, and private.
         </p>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
