@@ -18,8 +18,8 @@ export const TwoFactorSetup = ({ onClose, onComplete }: TwoFactorSetupProps) => 
   useEffect(() => {
     // Generate new secret
     const newSecret = speakeasy.generateSecret({
-      name: 'Moneiero',
-      issuer: 'Moneiero'
+      name: 'MoneroCare',
+      issuer: 'MoneroCare'
     });
     setSecret(newSecret.base32);
     setOtpAuthUrl(newSecret.otpauth_url || '');
