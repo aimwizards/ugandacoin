@@ -26,7 +26,7 @@ export const Footer = () => {
 
           <div className="flex items-center gap-4">
             <a
-              href="https://t.me/monerocare"
+              href="https://t.me/Moneiero"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-indigo-600 transition-colors"
@@ -34,7 +34,7 @@ export const Footer = () => {
               <MessageCircle className="w-6 h-6" />
             </a>
             <a
-              href="https://twitter.com/monerocare"
+              href="https://twitter.com/Moneiero"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-indigo-600 transition-colors"
