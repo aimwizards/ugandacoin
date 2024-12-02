@@ -37,7 +37,7 @@ export const Settings = () => {
   };
 
   const handleTelegramConnect = () => {
-    window.open('https://t.me/monerocare', '_blank');
+    window.open('https://t.me/Moneiero', '_blank');
     setSettings(prev => ({ ...prev, telegramConnected: true }));
   };
 
