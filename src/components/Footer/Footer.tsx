@@ -20,7 +20,6 @@ export const Footer = () => {
             <Link to="/faq" className="text-gray-600 hover:text-indigo-600 transition-colors">FAQ</Link>
             <Link to="/fees" className="text-gray-600 hover:text-indigo-600 transition-colors">Fees</Link>
             <Link to="/contact" className="text-gray-600 hover:text-indigo-600 transition-colors">Contact us</Link>
-            <Link to="/guides" className="text-gray-600 hover:text-indigo-600 transition-colors">Guides</Link>
             <Link to="/reputation" className="text-gray-600 hover:text-indigo-600 transition-colors">Reputation</Link>
           </nav>
 
