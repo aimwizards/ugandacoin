@@ -28,7 +28,7 @@ export const RegistrationPrompt = ({ onClose }: RegistrationPromptProps) => {
         </div>
 
         <p className="text-gray-600 mb-6">
-          Please register to view more offers and start trading on MoneroCare.
+          Please register to view more offers and start trading on Moneiero.
         </p>
 
         <div className="flex gap-4">
