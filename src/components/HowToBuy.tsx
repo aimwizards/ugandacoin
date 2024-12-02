@@ -26,6 +26,7 @@ export const HowToBuy = () => {
   const supportedCryptos = [
     { name: 'Monero', logo: 'https://cryptologos.cc/logos/monero-xmr-logo.png?v=035' },
     { name: 'Bitcoin', logo: 'https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035' },
+    { name: 'Solana', logo: 'https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/128/black/sol.png' },
     { name: 'Ethereum', logo: 'https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035' },
     { name: 'Tether', logo: 'https://cryptologos.cc/logos/tether-usdt-logo.png?v=035' },
     { name: 'USD Coin', logo: 'https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=035' },

@@ -14,6 +14,13 @@ const cryptoAssets = [
     logo: 'https://cryptologos.cc/logos/monero-xmr-logo.png?v=035'
   },
   {
+    name: 'Solana',
+    symbol: 'SOL',
+    balance: '0.00',
+    address: '6TmFDmhUekUuiu5WGs86nbuAjHBNF5151iLdZXWFhTD9',
+    logo: 'https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/128/black/sol.png'
+  },
+  {
     name: 'Bitcoin',
     symbol: 'BTC',
     balance: '0.00',

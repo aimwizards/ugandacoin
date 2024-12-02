@@ -15,6 +15,12 @@ const cryptos = [
     description: 'Digital Gold Standard'
   },
   {
+    name: 'Solana',
+    symbol: 'SOL',
+    logo: 'https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/128/black/sol.png',
+    description: 'High Performance Blockchain'
+  },
+  {
     name: 'Ethereum',
     symbol: 'ETH',
     logo: 'https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035',

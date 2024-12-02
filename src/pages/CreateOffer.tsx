@@ -9,6 +9,7 @@ import { FundingRequiredModal } from '../components/CreateOffer/FundingRequiredM
 const supportedCryptos = [
   { name: 'Monero', symbol: 'XMR' },
   { name: 'Bitcoin', symbol: 'BTC' },
+  { name: 'Solana', symbol: 'SOL' },
   { name: 'Ethereum', symbol: 'ETH' },
   { name: 'Tether', symbol: 'USDT' },
   { name: 'USD Coin', symbol: 'USDC' },

@@ -35,7 +35,7 @@ export const Contact = () => {
               <h2 className="text-xl font-semibold mb-4">Get in Touch</h2>
               <div className="space-y-4">
                 <a
-                  href="https://t.me/Moneiero"
+                  href="https://t.me/monerocare"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-gray-600 hover:text-indigo-600 transition-colors"
@@ -44,7 +44,7 @@ export const Contact = () => {
                   <span>Telegram Support</span>
                 </a>
                 <a
-                  href="mailto:support@Moneiero.com"
+                  href="mailto:support@monerocare.com"
                   className="flex items-center gap-3 text-gray-600 hover:text-indigo-600 transition-colors"
                 >
                   <Mail className="w-5 h-5" />

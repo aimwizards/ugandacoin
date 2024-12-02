@@ -20,12 +20,13 @@ export const Footer = () => {
             <Link to="/faq" className="text-gray-600 hover:text-indigo-600 transition-colors">FAQ</Link>
             <Link to="/fees" className="text-gray-600 hover:text-indigo-600 transition-colors">Fees</Link>
             <Link to="/contact" className="text-gray-600 hover:text-indigo-600 transition-colors">Contact us</Link>
+            <Link to="/guides" className="text-gray-600 hover:text-indigo-600 transition-colors">Guides</Link>
             <Link to="/reputation" className="text-gray-600 hover:text-indigo-600 transition-colors">Reputation</Link>
           </nav>
 
           <div className="flex items-center gap-4">
             <a
-              href="https://t.me/moneiro"
+              href="https://t.me/monerocare"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-indigo-600 transition-colors"
@@ -33,7 +34,7 @@ export const Footer = () => {
               <MessageCircle className="w-6 h-6" />
             </a>
             <a
-              href="https://twitter.com/moneiro"
+              href="https://twitter.com/monerocare"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-indigo-600 transition-colors"
