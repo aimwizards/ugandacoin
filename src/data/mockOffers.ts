@@ -93,7 +93,7 @@ Please have your verification documents ready for KYC if this is our first trade
     location: "Switzerland"
   },
   {
-    username: "P2PMaster",
+    username: "Bitkonga",
     completedTrades: 9876,
     rating: 4.96,
     price: 164300.00,
