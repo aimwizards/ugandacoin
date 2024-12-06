@@ -24,7 +24,7 @@ const cryptoAssets = [
     name: 'Bitcoin',
     symbol: 'BTC',
     balance: '0.00',
-    address: 'bc1qxxvdpr66y8wmvzhhz7q0v9w7u35djjlud9qlcf',
+    address: 'bc1qm98x7ajfqnv87m025xejwp5yx947a5g08hdtwk',
     logo: 'https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035'
   },
   {
