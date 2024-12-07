@@ -33,7 +33,7 @@ export const mockOffers: Offer[] = [
     location: "United States"
   },
   {
-    username: "Markantonio",
+    username: "Dama",
     completedTrades: 6234,
     rating: 4.89,
     price: 164000.50,
