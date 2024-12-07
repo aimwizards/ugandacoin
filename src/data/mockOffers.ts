@@ -16,12 +16,12 @@ interface Offer {
 
 export const mockOffers: Offer[] = [
   {
-    username: "CryptoKing",
+    username: "FAST_COINS_4_U",
     completedTrades: 8456,
     rating: 4.95,
     price: 163500.00,
     paymentMethods: [
-      { type: 'bank', name: 'PayPal' },
+      { type: 'bank', name: 'Zelle pay' },
       { type: 'card', name: 'Wise Transfer' }
     ],
     limits: { min: 100, max: 50000 },
