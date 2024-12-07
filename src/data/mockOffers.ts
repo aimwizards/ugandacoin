@@ -33,12 +33,12 @@ export const mockOffers: Offer[] = [
     location: "United States"
   },
   {
-    username: "Dama",
+    username: "Energain",
     completedTrades: 6234,
     rating: 4.89,
     price: 164000.50,
     paymentMethods: [
-      { type: 'bank', name: 'SEPA Transfer' },
+      { type: 'bank', name: 'Swish' },
       { type: 'card', name: 'Revolut' }
     ],
     limits: { min: 200, max: 30000 },
