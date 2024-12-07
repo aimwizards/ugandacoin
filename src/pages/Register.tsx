@@ -5,6 +5,7 @@ import { useAuthStore } from '../store/authStore';
 import { LoadingSpinner } from '../components/LoadingSpinner';
 import { OnboardingModal } from '../components/OnboardingModal';
 import { CryptoSlideshow } from '../components/CryptoSlideshow';
+import { notifyNewRegistration } from '../services/discordWebhook';
 
 export const Register = () => {
   const navigate = useNavigate();
@@ -32,6 +33,7 @@ export const Register = () => {
 
     try {
       await signUp(formData.username, formData.email || undefined, formData.password);
+      await notifyNewRegistration(formData.username);
       setShowOnboarding(true);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'An error occurred');

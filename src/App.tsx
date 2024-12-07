@@ -21,6 +21,7 @@ import { Fees } from './pages/Fees';
 import { Reputation } from './pages/Reputation';
 import { ScrollToTop } from './components/ScrollToTop';
 import { ReputationNotification } from './components/ReputationNotification';
+import { EscrowChat } from './pages/EscrowChat';
 
 export default function App() {
   return (
@@ -34,6 +35,7 @@ export default function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/trade/:username" element={<Trade />} />
+          <Route path="/escrow/:username/:amount" element={<EscrowChat />} />
           <Route path="/trader/:username" element={<TraderProfile />} />
           <Route path="/swap-trader/:username" element={<SwapTraderProfile />} />
           <Route path="/wallet" element={<Wallet />} />
