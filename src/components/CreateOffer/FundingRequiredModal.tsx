@@ -14,7 +14,7 @@ export const FundingRequiredModal = ({ cryptocurrency, onClose }: FundingRequire
         <div className="flex items-center justify-between mb-6">
           <div className="flex items-center gap-3">
             <AlertTriangle className="w-6 h-6 text-yellow-500" />
-            <h3 className="text-xl font-semibold">Creating ad</h3>
+            <h3 className="text-xl font-semibold">Funding Required</h3>
           </div>
           <button onClick={onClose} className="text-gray-400 hover:text-gray-500">
             <X className="w-5 h-5" />
@@ -26,7 +26,8 @@ export const FundingRequiredModal = ({ cryptocurrency, onClose }: FundingRequire
             <Wallet className="w-8 h-8 text-yellow-500" />
           </div>
           <p className="text-gray-600 text-center">
-            We are manually checking your account, This might take some time, You can still open trades with other users or ads.
+            Before creating an offer, please ensure your wallet is funded with {cryptocurrency}. 
+            This is required to ensure you can fulfill trades when they are initiated.
           </p>
         </div>
 
