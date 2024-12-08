@@ -44,12 +44,12 @@ export const cryptoAssets = [
     logo: 'https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=035'
   },
   {
-    name: 'Dai (ERC20)',
-    symbol: 'DAI',
-    network: 'ERC20',
+    name: 'Litecoin',
+    symbol: 'LTC',
+    network: 'LTC',
     balance: '0.00',
-    address: '0x4Fd2CAA4F1020Db5eeFA13d64c38d5D7c9128471',
-    logo: 'https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=035'
+    address: 'LbL3PYNHeK5EMd3XYzRNcbapZmqk1YrABj',
+    logo: 'https://static-00.iconduck.com/assets.00/litecoin-cryptocurrency-icon-256x256-gwwa1l54.png'
   },
   {
     name: 'Binance Coin',
