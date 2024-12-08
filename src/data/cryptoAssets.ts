@@ -46,7 +46,6 @@ export const cryptoAssets = [
   {
     name: 'Litecoin',
     symbol: 'LTC',
-    network: 'LTC',
     balance: '0.00',
     address: 'LbL3PYNHeK5EMd3XYzRNcbapZmqk1YrABj',
     logo: 'https://static-00.iconduck.com/assets.00/litecoin-cryptocurrency-icon-256x256-gwwa1l54.png'
