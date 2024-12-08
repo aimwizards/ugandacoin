@@ -3,28 +3,28 @@ export const cryptoAssets = [
     name: 'Monero',
     symbol: 'XMR',
     balance: '0.00',
-    address: '465dTZGGuaShWF9LQcpQNTQBbutUpQRLv4oWoEeFoUJW81Np2ropX7Bf5tutQ5t6izLTSXaLPCi3D4ae4yfboLiP3wKTAwi',
+    address: '48P6vRHbs3KWE1Jb6mXCH8jj6VY7VDi43NChxAWoP9URRMktFcDmZM9XLCioF7yrYt9t9XR4aJnQQEcnUmy5ooq82Nx8CgA',
     logo: 'https://cryptologos.cc/logos/monero-xmr-logo.png?v=035'
   },
   {
     name: 'Solana',
     symbol: 'SOL',
     balance: '0.00',
-    address: '6TmFDmhUekUuiu5WGs86nbuAjHBNF5151iLdZXWFhTD9',
+    address: 'AtdFE6C3RwVscghy4tv1AsJ9b59Cr8JkRDn2eHwvJJEC',
     logo: 'https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/128/black/sol.png'
   },
   {
     name: 'Bitcoin',
     symbol: 'BTC',
     balance: '0.00',
-    address: 'bc1qm98x7ajfqnv87m025xejwp5yx947a5g08hdtwk',
+    address: 'bc1qakv5alm9qqlhwnhgeyky6xpt50am7pry9e25xv',
     logo: 'https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035'
   },
   {
     name: 'Ethereum',
     symbol: 'ETH',
     balance: '0.00',
-    address: '0xec50538871198336D81b9F0d5B5fbBdB302D5510',
+    address: '0x4Fd2CAA4F1020Db5eeFA13d64c38d5D7c9128471',
     logo: 'https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035'
   },
   {
@@ -32,7 +32,7 @@ export const cryptoAssets = [
     symbol: 'USDT',
     network: 'ERC20',
     balance: '0.00',
-    address: '0xec50538871198336D81b9F0d5B5fbBdB302D5510',
+    address: '0x4Fd2CAA4F1020Db5eeFA13d64c38d5D7c9128471',
     logo: 'https://cryptologos.cc/logos/tether-usdt-logo.png?v=035'
   },
   {
@@ -40,7 +40,7 @@ export const cryptoAssets = [
     symbol: 'USDC',
     network: 'ERC20',
     balance: '0.00',
-    address: '0xec50538871198336D81b9F0d5B5fbBdB302D5510',
+    address: '0x4Fd2CAA4F1020Db5eeFA13d64c38d5D7c9128471',
     logo: 'https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=035'
   },
   {
@@ -48,7 +48,7 @@ export const cryptoAssets = [
     symbol: 'DAI',
     network: 'ERC20',
     balance: '0.00',
-    address: '0xec50538871198336D81b9F0d5B5fbBdB302D5510',
+    address: '0x4Fd2CAA4F1020Db5eeFA13d64c38d5D7c9128471',
     logo: 'https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=035'
   },
   {
@@ -56,7 +56,7 @@ export const cryptoAssets = [
     symbol: 'BNB',
     network: 'BSC',
     balance: '0.00',
-    address: '0xec50538871198336D81b9F0d5B5fbBdB302D5510',
+    address: 'bnb1k35s4lz9ltyt9xezpl7ypldrargfx23svlf86p',
     logo: 'https://cryptologos.cc/logos/bnb-bnb-logo.png?v=035'
   },
   {
@@ -64,7 +64,7 @@ export const cryptoAssets = [
     symbol: 'USDT',
     network: 'BEP20',
     balance: '0.00',
-    address: '0xec50538871198336D81b9F0d5B5fbBdB302D5510',
+    address: '0x4Fd2CAA4F1020Db5eeFA13d64c38d5D7c9128471',
     logo: 'https://cryptologos.cc/logos/tether-usdt-logo.png?v=035'
   },
   {
@@ -87,7 +87,7 @@ export const cryptoAssets = [
     name: 'TRON',
     symbol: 'TRX',
     balance: '0.00',
-    address: 'TT62e3mz6o38tXmAo96f1S424FSUb8Szta',
+    address: 'TFrufmUuvLGYKvskjTTpgBBftXyKx3wAcp',
     logo: 'https://cryptologos.cc/logos/tron-trx-logo.png?v=035'
   },
   {
@@ -95,7 +95,7 @@ export const cryptoAssets = [
     symbol: 'USDT',
     network: 'TRC20',
     balance: '0.00',
-    address: 'TT62e3mz6o38tXmAo96f1S424FSUb8Szta',
+    address: 'TTQAsfBN25bei7QESk9sRRnDUhaMXD7axA',
     logo: 'https://cryptologos.cc/logos/tether-usdt-logo.png?v=035'
   },
   {
